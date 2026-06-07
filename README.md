@@ -37,13 +37,21 @@ Measuring the Impact of Sustainability on Economic Growth Across Countries
 
 # Sub-Questions
   1- What is the sustainability level in each country from 2010 to 2024?
+  
   2- How does sustainability differ between developed and developing countries?
+  
   3- Which sustainability dimension has the strongest impact on economic growth?
+  
   4- Is renewable energy adoption associated with higher economic performance?
+  
   5- Does environmental performance significantly influence long-term economic growth?
+  
   6- How have countries improved in sustainability over time?
+  
   7- Which region shows the fastest progress in sustainability indicators?
+  
   8- Is there a measurable correlation between the Composite Sustainability Index (CSI) and GDP growth?
+  
   9- Which countries are the best and worst performers in sustainability?
 
 # Final Sustainability Framework
