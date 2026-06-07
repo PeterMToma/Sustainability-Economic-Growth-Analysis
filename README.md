@@ -4,9 +4,6 @@ This project analyzes the relationship between sustainability and economic growt
 # Project Title
 Measuring the Impact of Sustainability on Economic Growth Across Countries
 
-# Project Period
-2010-2024
-
 # Countries to be compared
   # Europe
 - United Kingdom
@@ -31,6 +28,9 @@ Measuring the Impact of Sustainability on Economic Growth Across Countries
   
   # Africa
 - South Africa
+
+ # Project Period
+  2010-2024
 
  # Taregt Question  
   1- What is the impact of sustainability on economic growth across the selected countries?
